@@ -1,0 +1,6 @@
+
+To Run
+
+java -classpath :./jcoap.jar:./log4j.jar  org/ws4d/coap/client/BasicCoapClient
+
+java -classpath :./jcoap.jar:./log4j.jar org/ws4d/coap/server/BasicCoapServer

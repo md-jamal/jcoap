@@ -1,0 +1,1000 @@
+ 1004  ls
+ 1005  cd de
+ 1006  cd default/
+ 1007  ls
+ 1008  vi grub
+ 1009  sudo vi grub
+ 1010  update-grub
+ 1011  sudo 0s
+ 1012  sudo -s
+ 1013  ./generate.sh 
+ 1014  ifconfig 
+ 1015  exit
+ 1016  ./generate.sh 
+ 1017  exit
+ 1018  ./generate.sh 
+ 1019  exit
+ 1020  java receiver 
+ 1021  exit
+ 1022  javac receiver.java 
+ 1023  java receiver 
+ 1024  sudo -s
+ 1025  exit
+ 1026  make telosb blip install,4 bsl,/dev/ttyUSB2
+ 1027  source ~/tinyos-main/tinyos.sh 
+ 1028  make telosb blip install,4 bsl,/dev/ttyUSB2
+ 1029  exit
+ 1030  make telosb bli[
+ 1031  make telosb blip
+ 1032  source ~/tinyos-main/tinyos.sh 
+ 1033  make telosb blip
+ 1034  locate StaticIpAddressC
+ 1035  locate StaticIPAddressC
+ 1036  make telosb blip
+ 1037  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1038  make telosb blip install,2 bsl,/dev/ttyUSB1
+ 1039  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1040  exit
+ 1041  source ~/tinyos-main/tinyos.sh 
+ 1042  make telosb blip
+ 1043  make telosb blip install,3 bsl,/dev/ttyUSB0
+ 1044  make telosb blip install,5 bsl,/dev/ttyUSB2
+ 1045  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1046  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1047  exit
+ 1048  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB0:telos
+ 1049  j
+ 1050  make telosb blip install,8 bsl,/dev/ttyUSB0
+ 1051  source ~/tinyos-main/tinyos.sh 
+ 1052  make telosb blip install,8 bsl,/dev/ttyUSB0
+ 1053  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB0:telos
+ 1054  exit
+ 1055  make telosb blip
+ 1056  source ../../tinyos.sh 
+ 1057  make telosb blip
+ 1058  make telosb blip install,5 bsl,/dev/ttyUSB2
+ 1059  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1060  motelist 
+ 1061  cd tinyos-main/
+ 1062  source tinyos.sh 
+ 1063  cd apps/UDPTEST/
+ 1064  make telosb blip install,1 bsl,/dev/ttyUSB0
+ 1065  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB0:telos
+ 1066  make telosb blip install,1 bsl,/dev/ttyUSB0
+ 1067  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB0:telos
+ 1068  ls
+ 1069  make telosb blip
+ 1070  source ../../tinyos.sh 
+ 1071  make telosb blip
+ 1072  make telosb blip install,2 bsl,/dev/ttyUSB1
+ 1073  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1
+ 1074  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1075  make telosb blip install,2 bsl,/dev/ttyUSB1
+ 1076  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1077  javac Sender.java 
+ 1078  sudo -s
+ 1079  javac Sender.java 
+ 1080  java Sender 
+ 1081  javac Sender.java 
+ 1082  java Sender 
+ 1083  javac Receiver.java 
+ 1084  java Receiver 
+ 1085  sudo -s
+ 1086  java Receiver 
+ 1087  make telosb blip
+ 1088  source ../../tinyos.sh 
+ 1089  make telosb blip
+ 1090  make telosb blip install,3 bsl,/dev/ttyUSB2e
+ 1091  exit
+ 1092  route -A inet6
+ 1093  exit
+ 1094  javac -classpath :./jcoap.jar  org/ws4d/coap/server/BasicCoapServer.java 
+ 1095  java -classpath :./jcoap.jar:./log4j.jar org.ws4d.coap.server.BasicCoapServer
+ 1096  exit
+ 1097  java -cp :./lib/log4j-1.1.3.jar :./lib/jcoap.jar org.ws4d.coap.client.BasicCoapClient
+ 1098  java -cp :./log4j-1.1.3.jar :./jcoap.jar org.ws4d.coap.client.BasicCoapClient
+ 1099  java -cp :./log4j-1.1.3.jar ./jcoap.jar org.ws4d.coap.client.BasicCoapClient
+ 1100  java -classpath :./jcoap.jar :./log4j-1.1.3.jar org.ws4d.coap.client.BasicCoapClient
+ 1101  java -classpath :./jcoap.jar  org.ws4d.coap.client.BasicCoapClient
+ 1102  javac -classpath :./jcoap.jar org.ws4d.coap.client.BasicCoapClient
+ 1103  javac -classpath :./jcoap.jar org.ws4d.coap.client.BasicCoapClient.java
+ 1104  javac -classpath :./jcoap.jar  org/ws4d/coap/client/BasicCoapClient.java
+ 1105  ls
+ 1106  mv log4j-1.1.3.jar log4j.jar
+ 1107  ls
+ 1108  java -classpath :./jcoap.jar :./log4j.jar org.ws4d.coap.client.BasicCoapClient
+ 1109  java -classpath :./jcoap.jar:./log4j.jar org.ws4d.coap.client.BasicCoapClient
+ 1110  exit
+ 1111  cd ~/jamal/project/
+ 1112  ls
+ 1113  cd ../../jcoap/
+ 1114  ls
+ 1115  cd ws4d-jcoap-applications/
+ 1116  ls
+ 1117  cd src/
+ 1118  ls
+ 1119  cd org/
+ 1120  ls
+ 1121  cd ws4d/
+ 1122  ls
+ 1123  cd coap/
+ 1124  ls
+ 1125  cd client/
+ 1126  ls
+ 1127  java BasicCoapClient 
+ 1128  cd ../../../../
+ 1129  java -cp :./lib/jcoap.jar org.ws4d.coap.client.BasicCoapClient
+ 1130  vi org/ws4d/coap/client/BasicCoapClient.java 
+ 1131  java -cp :./lib/jcoap.jar :./lib/log4j.jar  org.ws4d.coap.client.BasicCoapClient
+ 1132  java -cp :./lib/jcoap.jar  org.ws4d.coap.client.BasicCoapClient
+ 1133  vi org/ws4d/coap/client/BasicCoapClient.java 
+ 1134  java -cp :./lib/jcoap.jar :./lib/log4j-1.1.3.jar  org.ws4d.coap.client.BasicCoapClient
+ 1135  sudo -s
+ 1136  exit
+ 1137  history 
+ 1138  java Receiver 
+ 1139  ls
+ 1140  java Translation 
+ 1141  exit
+ 1142  gcc endianess.c 
+ 1143  ./a.out 
+ 1144  exit
+ 1145  make telosb blip
+ 1146  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1147  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1148  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1149  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1150  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1151  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1152  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1153  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1154  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1155  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1156  make telosb blip
+ 1157  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1158  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2
+ 1159  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1160  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1161  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1162  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1163  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1164  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1165  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1166  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1167  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1168  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1169  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1170  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1171  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1172  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1173  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1174  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1175  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1176  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1177  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1178  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1179  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1180  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1181  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1182  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1183  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1184  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1185  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1186  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1187  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1188  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1189  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1190  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1191  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1192  exit
+ 1193  motelist 
+ 1194  source ../../tinyos.sh 
+ 1195  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1196  ls
+ 1197  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1198  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1199  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1200  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1201  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1202  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1203  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1204  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1205  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1206  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1207  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1208  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1209  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1210  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1211  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1212  make telosb bliop
+ 1213  source ../../tinyos.sh 
+ 1214  make telosb blip
+ 1215  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1216  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1217  make telosb blip install,3 bsl,/dev/ttyUSB2
+ 1218  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1219  make telosb blip
+ 1220  ./lookup.sh 
+ 1221  javac -classpath :./jslp.jar  src/Lookup.java -d bin/
+ 1222  ./lookup.sh 
+ 1223  javac -classpath :./jslp.jar  src/Lookup.java -d bin/
+ 1224  ./lookup.sh 
+ 1225  LS
+ 1226  ls
+ 1227  cd bin/
+ 1228  ls -l
+ 1229  vi ../lookup.sh 
+ 1230  cd ..
+ 1231  ls
+ 1232  javac -classpath :./jslp.jar  Lookup.java -d bin/
+ 1233  ../lookup.sh 
+ 1234  ./lookup.sh 
+ 1235  ./registration.sh
+ 1236  sudo -s
+ 1237  javac *.java
+ 1238  javac -classpath :./jslp.jar *.java
+ 1239  sudo -s
+ 1240  javac -classpath :./jslp.jar *.java
+ 1241  java Translation 
+ 1242  javac -classpath :./jslp.jar *.java
+ 1243  java Translation 
+ 1244  javac -classpath :./jslp.jar *.java
+ 1245  java Translation 
+ 1246  javac -classpath :./jslp.jar *.java
+ 1247  java Translation 
+ 1248  javac -classpath :./jslp.jar *.java
+ 1249  java Translation 
+ 1250  source ../tinyos.sh 
+ 1251  cd PppRouter/
+ 1252  ls
+ 1253  make telosb blip install,1 bsl,/dev/ttyUSB0
+ 1254  sudo pppd debug passive noauth nodetach 115200 /dev/ttyUSB0 nocrtscts nocdtrcts lcp-echo-interval 0 noccp noip ipv6 ::23,::24
+ 1255  sudo ifconfig ppp0 add fec0::100/64
+ 1256  ifconfig 
+ 1257  ls
+ 1258  sudo -s
+ 1259  exit
+ 1260  chmod +x timestool-1.3b.bin 
+ 1261  ./timestool-1.3b.bin 
+ 1262  source tinyos.sh \
+ 1263  source tinyos.sh 
+ 1264  cd apps/
+ 1265  cd PppRouter/
+ 1266  make telosb blip install,1 bsl,/dev/ttyUSB0
+ 1267  sudo pppd debug passive noauth nodetach 115200 /dev/ttyUSB0 nocrtscts nocdtrcts lcp-echo-interval 0 noccp noip ipv6 ::23,::24
+ 1268  rm *.class
+ 1269  cd ..
+ 1270  rm *.class
+ 1271  cd impl/filter/
+ 1272  rm *.class
+ 1273  cd ../../
+ 1274  exit
+ 1275  git init
+ 1276  ls
+ 1277  ls -l
+ 1278  git add jslp_ipv6/
+ 1279  git commit -m "jslp source code for ipv6"
+ 1280  git remote add https://github.com/md-jamal
+ 1281  git remote add uo https://github.com/md-jamal
+ 1282  git remote add up https://github.com/md-jamal
+ 1283  git checkout 
+ 1284  git push origin maste
+ 1285  git push origin master
+ 1286  git remote add origin https://github.com/md-jamal
+ 1287  git remote add origin https://github.com/md-jamal.git
+ 1288  git remote remove origin
+ 1289  git del origin
+ 1290  git delete origin
+ 1291  man git
+ 1292  git remote add dest http://github.com/md-jamal.git
+ 1293  git push dest master
+ 1294  git remote add des https://github.com/md-jamal.git
+ 1295  git push des master
+ 1296  git init
+ 1297  git add jslp_ipv6/
+ 1298  git commit -m "ipv6 version of jslp"
+ 1299  git remote add origi https://github.com/md-jamal/jslp.git
+ 1300  git push -u origi master
+ 1301  exit
+ 1302  ./lookup.sh 
+ 1303  sudo -s
+ 1304  ./generate.sh 
+ 1305  cd ..
+ 1306  ls
+ 1307  cd ..
+ 1308  ls
+ 1309  mv ipv6_android_code/ jslp_ipv6
+ 1310  ls
+ 1311  cd jslp_ipv6/
+ 1312  ls
+ 1313  cd java/
+ 1314  ls
+ 1315  vi generate.sh 
+ 1316  ./generate.sh 
+ 1317  exit
+ 1318  ./lookup.sh 
+ 1319  sudo -s
+ 1320  ./lookup.sh 
+ 1321  sudo -s
+ 1322  kompare src/main/java/ch/ ~/jamal/project/android/apks/apkofslp/ipv6/ipv6_android_code/java/ch/
+ 1323  ls
+ 1324  exit
+ 1325  ./generate.sh 
+ 1326  cd jslp/
+ 1327  ls -l
+ 1328  exit
+ 1329  ./generate.sh 
+ 1330  exiy
+ 1331  exit
+ 1332  ./lookup.sh 
+ 1333  vi Lookup.java 
+ 1334  vi src/Registration.java 
+ 1335  exit
+ 1336  ./registration.sh
+ 1337  vi registration.sh
+ 1338  ./registration.sh
+ 1339  exit
+ 1340  ./lookup.sh 
+ 1341  sudo -s
+ 1342  exit
+ 1343  ./generate.sh 
+ 1344  exit
+ 1345  make telosv
+ 1346  make telosb
+ 1347  make telosb install
+ 1348  motelist 
+ 1349  make telosb install,4 bsl,/dev/ttyUSB2
+ 1350  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1351  make telosb blip
+ 1352  exit
+ 1353  source tinyos-main/
+ 1354  source tinyos-main/tinyos.sh 
+ 1355  ls
+ 1356  sudo pppd debug passive noauth nodetach 115200 /dev/ttyUSB0 nocrtscts nocdtrcts lcp-echo-interval 0 noccp noip ipv6 ::23,::24
+ 1357  source tinyos-main/tinyos.sh 
+ 1358  sudo ifconfig ppp0 add fec0::100/64
+ 1359  nc6 -u fec0::1 2000
+ 1360  nc6 -u fec0::3 2000
+ 1361  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1362  source tinyos-main/tinyos.sh 
+ 1363  cd tinyos-main/apps/UDPTEST/
+ 1364  make telosb blip
+ 1365  make telosb blip install,3  bsl,/dev/ttyUSB1
+ 1366  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1367  make telosb blip install,3  bsl,/dev/ttyUSB1
+ 1368  nc6 -u fec0::3 2000
+ 1369  nc6 -u fec0::1 2000
+ 1370  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1371  nc6 -u fec0::1 2000
+ 1372  make telosb blip install,3  bsl,/dev/ttyUSB1
+ 1373  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1374  make telosb blip install,3  bsl,/dev/ttyUSB1
+ 1375  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1376  make telosb blip install,3  bsl,/dev/ttyUSB1
+ 1377  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1378  make telosb blip install,3  bsl,/dev/ttyUSB1
+ 1379  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1380  make telosb blip install,3  bsl,/dev/ttyUSB1
+ 1381  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1382  make telosb blip install,3  bsl,/dev/ttyUSB1
+ 1383  javac Sender.java 
+ 1384  sudo -s
+ 1385  javac Sender.java 
+ 1386  java Sender 
+ 1387  javac Sender.java 
+ 1388  java Sender 
+ 1389  javac Sender.java 
+ 1390  java Sender 
+ 1391  javac Sender.java 
+ 1392  java Sender 
+ 1393  javac Sender.java 
+ 1394  java Sender 
+ 1395  javac Sender.java 
+ 1396  java Sender 
+ 1397  javac Sender.java 
+ 1398  java Sender 
+ 1399  javac Sender.java 
+ 1400  java Sender 
+ 1401  javac Sender.java 
+ 1402  java Sender 
+ 1403  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1404  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1405  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1406  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB2:telos
+ 1407  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1408  cd /home/jumbo/jamal/project/android/jslp-sample
+ 1409  ls
+ 1410  ./lookup.sh 
+ 1411  exit
+ 1412  javac -classpath :./jslp.jar *.java
+ 1413  java Translation 
+ 1414  exit
+ 1415  cd /home/jumbo/jamal/project/Socket-progr/java/SSLP_SLP/Translation/src
+ 1416  javac -classpath :./jslp.jar *.java
+ 1417  sudo -s
+ 1418  exit
+ 1419  scp -r ucos/ praveen@10.242.10.61:.
+ 1420  exit
+ 1421  vi /etc/dhcp/dhcpd.conf 
+ 1422  dhcpd -t
+ 1423  dhcpd -t /etc/dhcp/dhcpd.conf 
+ 1424  dhcpd -t -cf /etc/dhcp/dhcpd.conf 
+ 1425  man dhcpd
+ 1426  vi /etc/dhcp/dhcpd.conf 
+ 1427  sudo grep -nr "theleo.hyderabad.cdac.in"
+ 1428  sudo grep -nr "theleo.hyderabad.cdac.in" /
+ 1429  vi /etc/dhcp/dhcpd.conf 
+ 1430  dhcpd -t -cf /etc/dhcp/dhcpd.conf 
+ 1431  dhcpd -t /etc/dhcp/dhcpd.conf 
+ 1432  vi /etc/dhcp/dhcpd.conf 
+ 1433  dhcpd -t /etc/dhcp/dhcpd.conf 
+ 1434  vi /etc/dhcp/dhcpd.conf 
+ 1435  dhcpd -t /etc/dhcp/dhcpd.conf 
+ 1436  vi /etc/dhcp/dhcpd.conf 
+ 1437  dhcpd -t /etc/dhcp/dhcpd.conf 
+ 1438  vi /etc/dhcp/dhcpd.conf 
+ 1439  dhcpd -t /etc/dhcp/dhcpd.conf 
+ 1440  vi /etc/dhcp/dhcpd.conf 
+ 1441  dhcpd -t /etc/dhcp/dhcpd.conf 
+ 1442  vi /etc/dhcp/dhcpd.conf 
+ 1443  apt-get remove isc-dhcp-common isc-dhcp-server isc-dhcp-client 
+ 1444  auto eht0
+ 1445  auto eth0
+ 1446  ifconfig 
+ 1447  cd /etc/dhcp
+ 1448  ls
+ 1449  cd dhcp3
+ 1450  ls
+ 1451  cd ../dcp3
+ 1452  cd ../dhcp3
+ 1453  ls
+ 1454  cd ..
+ 1455  dhcp
+ 1456  sudo ifconfig eth0 up
+ 1457  ifconfig 
+ 1458  sudo ifconfig eth0 add 10.242.10.90
+ 1459  ifconfig 
+ 1460  ls
+ 1461  ifconfig 
+ 1462  sudo ifconfig eth0 del 10.242.10.90
+ 1463  ifconfig 
+ 1464  sudo services networking restart
+ 1465  service networking restart
+ 1466  ifconfig 
+ 1467  start network-manager 
+ 1468  ifconfig 
+ 1469  man sco
+ 1470  man scp
+ 1471  exit
+ 1472  ifconfig eth0 up
+ 1473  ifconfig 
+ 1474  auto eth0
+ 1475  dhclient
+ 1476  ls
+ 1477  man dhclient
+ 1478  ifconfig 
+ 1479  sudo apt-get install isc-dhcp-server
+ 1480  ls
+ 1481  vi /etc/dhcp/dhcpd.conf 
+ 1482  sudo -s
+ 1483  ifconfig 
+ 1484  ifconfig eth0 up
+ 1485  sudo -s
+ 1486  ifconfig 
+ 1487  hostname 
+ 1488  host
+ 1489  ssh -X praveen@10.242.10.61
+ 1490  cat /etc/resolv.conf 
+ 1491  ping hyderabad.cdac.in
+ 1492  ls
+ 1493  cd etc
+ 1494  cd /etc
+ 1495  ls
+ 1496  cd dhcp
+ 1497  ls
+ 1498  cd ../dhcp3
+ 1499  ls
+ 1500  cd dhclient-enter-hooks.d/
+ 1501  ls
+ 1502  cd s
+ 1503  cd ..
+ 1504  l
+ 1505  cd ..
+ 1506  dpkg -i *.deb
+ 1507  dpkg -i libnm-glib2_0.8.1-6+squeeze2_i386.deb 
+ 1508  ifconfig
+ 1509  dpkg -i isc-dhcp-client_4.1.ESV-R4-0ubuntu5.9_i386.deb 
+ 1510  dpkg -i isc-dhcp-common_4.1.ESV-R4-0ubuntu5.9_i386.deb 
+ 1511  dpkg -i isc-dhcp-server_4.1.ESV-R4-0ubuntu5.9_i386.deb 
+ 1512  dpkg -i *.deb
+ 1513  dhclient
+ 1514  dhcpd 
+ 1515  dhcpd -t
+ 1516  dhclient-script 
+ 1517  ls
+ 1518  cd /etc/
+ 1519  ls
+ 1520  cd dhcp3
+ 1521  ls
+ 1522  cd dhcp
+ 1523  cd ../dhcp
+ 1524  ls
+ 1525  cd dhclient-enter-hooks.d/
+ 1526  ls
+ 1527  cd ..
+ 1528  ls
+ 1529  dhcpd start
+ 1530  vi dhcpd.conf
+ 1531  /etc/init.d/networking start
+ 1532  service networking start
+ 1533  service networking stop
+ 1534  service networking start
+ 1535  service networking restart
+ 1536  service networking start
+ 1537  start networking
+ 1538  nm-connection-editor 
+ 1539  ifconfig
+ 1540  nm-applet 
+ 1541  nm-connection-editor 
+ 1542  ifconfig
+ 1543  /etc/init.d/dhcpd start
+ 1544  dhcp start
+ 1545  service dhcpd start
+ 1546  nm-applet 
+ 1547  ifconfig 
+ 1548  sudo vi interfaces 
+ 1549  service networking restart
+ 1550  ifconfig 
+ 1551  sudo vi interfaces 
+ 1552  hostname 
+ 1553  nm
+ 1554  dpkg -i network-manager_0.9.4.0-0ubuntu4.3_i386.deb 
+ 1555  sudo dpkg -i network-manager_0.9.4.0-0ubuntu4.3_i386.deb 
+ 1556  man dpkg
+ 1557  sudo dpkg -i network-manager_0.9.4.0-0ubuntu4.3_i386.deb 
+ 1558  dpkg -P network-manager
+ 1559  sudo dpkg -P network-manager
+ 1560  sudo dpkg -i network-manager_0.9.4.0-0ubuntu4.3_i386.deb 
+ 1561  sudo dpkg -i network-manager-gnome_0.8.1-2_i386.deb 
+ 1562  dpkg -I *.deb
+ 1563  dpkg -I libglib2.0-0_2.24.2-1_i386.deb 
+ 1564  sudo -s
+ 1565  ifconfig 
+ 1566  lsusb
+ 1567  ls
+ 1568  cd /var/cache/apt/archives/partial/
+ 1569  ls
+ 1570  cd ..
+ 1571  ls
+ 1572  sudo -s
+ 1573  ifconfig 
+ 1574  ls
+ 1575  ifconfig auto eth0
+ 1576  sudo -s
+ 1577  ls
+ 1578  dhcp
+ 1579  dhcpd
+ 1580  vi /etc/dhcp/dhcpd.conf 
+ 1581  dhcpd
+ 1582  dhcpd eth0
+ 1583  ifconfig eth0 up
+ 1584  dhcpd eth0
+ 1585  dhclient
+ 1586  man dhclient
+ 1587  vi /etc/dhcp/dhclient.conf
+ 1588  dhclient eth0
+ 1589  ifconfig 
+ 1590  dhclient eth0
+ 1591  ifconfig 
+ 1592  sudo apt-get updates
+ 1593  sudo apt-get update
+ 1594  ls
+ 1595  dhclient wlan0
+ 1596  sudo -s
+ 1597  ssh -X cdac@10.242.11.85
+ 1598  exit
+ 1599  ssh -X cdac@10.242.11.85
+ 1600  dhclient eth0
+ 1601  ifconfig 
+ 1602  exit
+ 1603  nm-applet 
+ 1604  ischroot
+ 1605  is
+ 1606  vi /etc/default/isc-dhcp-server 
+ 1607  vi /etc/dhcp/dhcpd.conf 
+ 1608  cp dhcpd.conf ~
+ 1609  cp dhcpd.conf ~.
+ 1610  sudo /etc/default/dhcpd.conf ~.
+ 1611  sudo cp /etc/default/dhcpd.conf ~.
+ 1612  sudo cp /etc/default/dhcpd.conf ~
+ 1613  cp /etc/dhcp/dhcpd.conf .
+ 1614  vi /etc/dhcp/dhcpd.conf 
+ 1615  sudo service isc-dhcp-server-restart
+ 1616  sudo service isc-dhcp-server-start
+ 1617  sudo service isc-dhcp-server-restart
+ 1618  vi /etc/dhcp/dhcpd.conf 
+ 1619  sudo service isc-dhcp-server-restart
+ 1620  /etc/init.d/isc-dhcp-server restart
+ 1621  ifconfig 
+ 1622  sudo service isc-dhcp-server stop
+ 1623  vi /etc/network/interfaces 
+ 1624  vi /etc/dhcp/dhcpd.conf 
+ 1625  /etc/init.d/isc-dhcp-server restart
+ 1626  start isc-dhcp-server
+ 1627  ifconfig 
+ 1628  cat /etc/resolv.c
+ 1629  cat /etc/resolv.conf 
+ 1630  grep --color nameserver /etc/resolv.conf
+ 1631  vi /etc/dhcp/dhcpd.conf 
+ 1632  /etc/init.d/isc-dhcp-server restart
+ 1633  stop isc-dhcp-server
+ 1634  start isc-dhcp-server
+ 1635  vi /etc/network/interfaces 
+ 1636  vi  /etc/default/isc-dhcp-server 
+ 1637  start isc-dhcp-server
+ 1638  vi /var/lib/dhcp/dhclient.leases 
+ 1639  ifconfig 
+ 1640  dhclient eth0
+ 1641  sudo -s
+ 1642  git clone  https://github.com/eclipse/ecf/tree/master/protocols/bundles/ch.ethz.iks.slp.git
+ 1643  git clone https://github.com/md-jamal/ecf/tree/master/protocols/bundles/ch.ethz.iks.slp
+ 1644  kompare /home/jumbo/ecf-master/protocols/bundles/ch.ethz.iks.slp/src/main/java/ch/ethz/iks/slp/impl/AdvertiserImpl.java /home/jumbo/jamal/project/android/apks/apkofslp/ipv6/jslp_ipv6/java/ch/ethz/iks/slp/impl/AdvertiserImpl.java 
+ 1645  kompare /home/jumbo/ecf-master/protocols/bundles/ch.ethz.iks.slp/src/main/java/ch/ethz/iks/slp/impl/SLPCore.java /home/jumbo/jamal/project/android/apks/apkofslp/ipv6/jslp_ipv6/ja
+ 1646  diff -rauB ecf-master/ ~/Downloads/ecf-master/ > jslp_patch
+ 1647  vi jslp_patch 
+ 1648  diff -rauB  ~/Downloads/ecf-master/ ecf-master/ > jslp_patch
+ 1649  vi jslp_patch 
+ 1650  diff -rauB  ~/Downloads/ecf-master/ ecf-master/ > jslp_patch
+ 1651  vi jslp_patch 
+ 1652  motelist 
+ 1653  ls
+ 1654  cd tinyos-main/
+ 1655  ls
+ 1656  source tinyos.sh 
+ 1657  cd apps/
+ 1658  ls
+ 1659  cd PppRouter/
+ 1660  ls
+ 1661  make telosb blip install,1 bsl,/dev/ttyUSB0
+ 1662  sudo pppd debug passive noauth nodetach 115200 /dev/ttyUSB0 nocrtscts nocdtrcts lcp-echo-interval 0 noccp noip ipv6 ::23,::24
+ 1663  ifconfig 
+ 1664  sudo ifconfig ppp0 add fec0::100/64
+ 1665  nc6 -u fec0::1 2000
+ 1666  nc6 -u fec0::3 2000
+ 1667  nc6 -u fec0::1 2000
+ 1668  nc6 -u fec0::2 2000
+ 1669  cd ../../
+ 1670  source tinyos.sh 
+ 1671  cd apps/UDPTEST/
+ 1672  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1673  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1674  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1675  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1676  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1677  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1678  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1679  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1680  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1681  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1682  javac Sender.java 
+ 1683  java Sender 
+ 1684  javac Sender.java 
+ 1685  java Sender 
+ 1686  javac Sender.java 
+ 1687  java Sender 
+ 1688  javac Sender.java 
+ 1689  java Sender 
+ 1690  javac Sender.java 
+ 1691  java Sender 
+ 1692  javac Sender.java 
+ 1693  java Sender 
+ 1694  javac Sender.java 
+ 1695  java Sender 
+ 1696  javac Sender.java 
+ 1697  java Sender 
+ 1698  javac Sender.java 
+ 1699  java Sender 
+ 1700  javac Sender.java 
+ 1701  java Sender 
+ 1702  javac Sender.java 
+ 1703  java Sender 
+ 1704  javac Sender.java 
+ 1705  java Sender 
+ 1706  javac Sender.java 
+ 1707  java Sender 
+ 1708  javac Sender.java 
+ 1709  sudo -s
+ 1710  history 
+ 1711  sudo service isc-dhcp-server start
+ 1712  netstat 
+ 1713  netstat -ntlp
+ 1714  netstat -lp --inet0
+ 1715  sudo service isc-dhcp-server start
+ 1716  sudo apt-get install nmap
+ 1717  netstat -a
+ 1718  netstat -au
+ 1719  ifconfig 
+ 1720  exit
+ 1721  make telosb install,3 bsl,/dev/ttyUSB1
+ 1722  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1723  make telosb install,3 bsl,/dev/ttyUSB1
+ 1724  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1725  make telosb install,3 bsl,/dev/ttyUSB1
+ 1726  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1727  make telosb install,3 bsl,/dev/ttyUSB1
+ 1728  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1729  make telosb install,3 bsl,/dev/ttyUSB1
+ 1730  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1731  make telosb install,3 bsl,/dev/ttyUSB1
+ 1732  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1733  make telosb install,3 bsl,/dev/ttyUSB1
+ 1734  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1735  make telosb install,3 bsl,/dev/ttyUSB1
+ 1736  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1737  make telosb install,3 bsl,/dev/ttyUSB1
+ 1738  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1739  make telosb install,3 bsl,/dev/ttyUSB1
+ 1740  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1741  make telosb install,3 bsl,/dev/ttyUSB1
+ 1742  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1743  make telosb install,3 bsl,/dev/ttyUSB1
+ 1744  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1745  make telosb install,3 bsl,/dev/ttyUSB1
+ 1746  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1747  make telosb install,3 bsl,/dev/ttyUSB1
+ 1748  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1749  make telosb install,3 bsl,/dev/ttyUSB1
+ 1750  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1751  make telosb install,3 bsl,/dev/ttyUSB1
+ 1752  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1753  make telosb install,3 bsl,/dev/ttyUSB1
+ 1754  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1755  make telosb install,3 bsl,/dev/ttyUSB1
+ 1756  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1757  make telosb install,3 bsl,/dev/ttyUSB1
+ 1758  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1759  exit
+ 1760  make telosb install,3 bsl,/dev/ttyUSB1
+ 1761  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1762  make telosb install,3 bsl,/dev/ttyUSB1
+ 1763  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1764  exit
+ 1765  sudo -s
+ 1766  wireshark 
+ 1767  sudo -s
+ 1768  dhclient -r
+ 1769  dhclient eth0
+ 1770  ifconfig 
+ 1771  start isc-dhcp-server 
+ 1772  vi /etc/dhcp/dhcpd.conf 
+ 1773  dhcpd -t
+ 1774  :q
+ 1775  vi /etc/dhcp/dhcpd.conf 
+ 1776  dhcpd -t
+ 1777  start isc-dhcp-server 
+ 1778  dhcp -r
+ 1779  dhclient -r
+ 1780  dhclient eth0
+ 1781  ifconfig 
+ 1782  source ../../tinyos.sh 
+ 1783  make telosb blip
+ 1784  sudo -s
+ 1785  make telosb blip
+ 1786  source ../../tinyos.sh 
+ 1787  make telosb blip
+ 1788  sudo ifconfig ppp0 add fec0::100/64
+ 1789  nc6 -u fec0::3 2000
+ 1790  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1791  make telosb blip
+ 1792  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1793  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1794  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1795  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1796  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1797  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1798  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1799  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1800  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1801  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1802  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1803  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1804  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1805  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1806  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1807  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1808  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1809  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1810  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1811  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1812  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1813  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1814  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1815  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1816  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1817  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1818  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1819  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1820  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1821  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1822  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1823  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1824  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1825  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1826  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1827  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1828  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1829  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1830  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1831  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1832  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1833  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1834  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1835  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1836  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1837  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1838  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1839  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1840  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1841  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1842  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1843  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1844  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1845  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1846  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1847  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1848  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1849  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1850  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1851  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1852  sudo -s
+ 1853  source ../../tinyos.sh 
+ 1854  cd ../PppRouter/
+ 1855  make telosb blip install,1 bsl,/dev/ttyUSB0
+ 1856  sudo pppd debug passive noauth nodetach 115200 /dev/ttyUSB0 nocrtscts nocdtrcts lcp-echo-interval 0 noccp noip ipv6 ::23,::24
+ 1857  javac Sender.java 
+ 1858  sudo -s
+ 1859  javac Sender.java 
+ 1860  java Sender 
+ 1861  javac Sender.java 
+ 1862  java Sender 
+ 1863  javac Sender.java 
+ 1864  java Sender 
+ 1865  javac Sender.java 
+ 1866  java Sender 
+ 1867  javac Sender.java 
+ 1868  java Sender 
+ 1869  javac Sender.java 
+ 1870  java Sender 
+ 1871  javac Sender.java 
+ 1872  java Sender 
+ 1873  javac Sender.java 
+ 1874  java Sender 
+ 1875  javac Sender.java 
+ 1876  java Sender 
+ 1877  javac Sender.java 
+ 1878  java Sender 
+ 1879  javac Sender.java 
+ 1880  java Sender 
+ 1881  javac Sender.java 
+ 1882  java Sender 
+ 1883  javac Sender.java 
+ 1884  java Sender 
+ 1885  javac Sender.java 
+ 1886  java Sender 
+ 1887  javac Sender.java 
+ 1888  java Sender 
+ 1889  javac Sender.java 
+ 1890  java Sender 
+ 1891  cd tinyos-
+ 1892  cd tinyos-main/
+ 1893  source tinyos.sh 
+ 1894  ls
+ 1895  l
+ 1896  s
+ 1897  motelist 
+ 1898  sudo pppd debug passive noauth nodetach 115200 /dev/ttyUSB0 nocrtscts nocdtrcts lcp-echo-interval 0 noccp noip ipv6 ::23,::24
+ 1899  sudo ifconfig ppp0 add fec0::100/64
+ 1900  ls
+ 1901  nc6 -u fec0::3 2000
+ 1902  source tinyos-main/tinyos.sh 
+ 1903  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1904  source tinyos-main/tinyos.sh 
+ 1905  cd tinyos-main/apps/UDPTEST/
+ 1906  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1907  sudo -s
+ 1908  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1909  source ../../tinyos.sh 
+ 1910  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1911  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1912  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1913  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1914  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1915  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1916  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1917  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1918  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1919  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1920  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1921  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1922  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1923  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1924  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1925  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1926  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1927  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1928  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1929  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1930  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1931  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1932  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1933  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1934  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1935  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1936  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1937  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1938  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1939  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1940  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1941  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1942  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1943  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1944  make telosb blip install,3 bsl,/dev/ttyUSB1
+ 1945  java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telos
+ 1946  cd jamal/project/Socket-progr/java/SSLP_SLP/
+ 1947  ls
+ 1948  vi Sender.java 
+ 1949  javac Sender.java 
+ 1950  sudo -s
+ 1951  javac Sender.java 
+ 1952  java Sender 
+ 1953  ls
+ 1954  cd Translation/
+ 1955  javac *.java
+ 1956  javac -classpath :./jslp.jar   *.java
+ 1957  ls
+ 1958  cd src/
+ 1959  javac -classpath :./jslp.jar   *.java
+ 1960  java Translation 
+ 1961  javac -classpath :./jslp.jar   *.java
+ 1962  java Translation 
+ 1963  javac -classpath :./jslp.jar   *.java
+ 1964  java Translation 
+ 1965  javac -classpath :./jslp.jar   *.java
+ 1966  java Translation 
+ 1967  javac -classpath :./jslp.jar   *.java
+ 1968  java Translation 
+ 1969  javac -classpath :./jslp.jar   *.java
+ 1970  java Translation 
+ 1971  javac -classpath :./jslp.jar   *.java
+ 1972  java Translation 
+ 1973  cd ../../
+ 1974  ls
+ 1975  javac Sender.java 
+ 1976  java Sender 
+ 1977  cd Translation/src/
+ 1978  javac -classpath :./jslp.jar   *.java
+ 1979  java Sender 
+ 1980  java Translation 
+ 1981  java Sender 
+ 1982  javac -classpath :./jslp.jar   *.java
+ 1983  java Translation 
+ 1984  javac -classpath :./jslp.jar   *.java
+ 1985  java Translation 
+ 1986  javac -classpath :./jslp.jar   *.java
+ 1987  java Translation 
+ 1988  javac -classpath :./jslp.jar   *.java
+ 1989  java Translation 
+ 1990  javac -classpath :./jslp.jar   *.java
+ 1991  java Translation 
+ 1992  javac -classpath :./jslp.jar   *.java
+ 1993  java Translation 
+ 1994  javac -classpath :./jslp.jar   *.java
+ 1995  java Translation 
+ 1996  javac -classpath :./jslp.jar   *.java
+ 1997  java Translation 
+ 1998  ./lookup.sh 
+ 1999  java Sender 
+ 2000  ./lookup.sh 
+ 2001  ls
+ 2002  history 
+ 2003  history >>history.txt
